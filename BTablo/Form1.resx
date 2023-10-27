@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema 
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="label36.Text" xml:space="preserve">
+    <value>PASİF (KAYNAKLAR)						
+
+
+		
+I-KISA VADELİ YABANCI KAYNAKLAR	 	 	 	 		
+ A-MALİ BORÇLAR						
+  1-BANKA KREDİLERİ						
+  4-UZUN VADELİ KREDİLERİN ANAPARA TAKSİT. VE FAİZLERİ	 	 	 	 	 	 
+  9-DİĞER MALİ BORÇLAR						
+ B-TİCARİ BORÇLAR						
+  1-SATICILAR						
+  2-BORÇ SENETLERİ						
+  3-BORÇ SENETLERİ REESKONTU(-)	 	 				
+  4-ALINAN DEPOZİTO VE TEMİNATLAR	 	 	 	 		
+  5-DİĞER TİCARİ BORÇLAR						
+ C-DİĞER BORÇLAR						
+  1-ORTAKLARA BORÇLAR						
+  2-İŞTİRAKLERE BORÇLAR						
+  3-BAĞLI ORTAKLIKLARA BORÇLAR	 	 	 	 		
+  4-PERSONELE OLAN BORÇLAR	 	 				
+  5-DİĞER ÇEŞİTLİ BORÇLAR						
+  6-DİĞER BORÇ SENETLERİ REESKONTU(-)	 	 	 	 		
+ D-ALINAN AVANSLAR						
+  1-ALINAN ŞİPARİŞ AVANSLARI	 	 				
+  2-ALINAN DİĞER AVANSLAR	 					
+ E-YILLARA YAYGIN İNŞAAT VE HAKEDİŞ BEDELLERİ	 	 	 	 	 	 
+ F-ÖDENECEK VERGİ VE DİĞER YÜKÜMLÜLÜKLER	 	 	 	 	 	 
+  1-ÖDENECEK VERGİ VE FONLAR	 	 				
+  2-ÖDENECEK SOSYAL GÜVENLİK KESİNTİLERİ	 	 	 	 	 	 
+  3-VADESİ GEÇMİŞ ERTELEN.VEYA TAKSİT.VERGİ VE DİĞ.YÜ.	 	 	 	 	 	 
+  4-ÖDENECEK DİĞER YÜKÜMLÜLÜKLER	 	 	 	 		
+ G-BORÇ VE GİDER KARŞILIKLARI	 	 				
+  1-DÖNEM KARI VERGİ VE DİĞER YASAL YÜKÜM.KARŞILIKLARI	 	 	 	 	 	 
+  2-DÖNEM KARININ PEŞİN ÖDEN.VERGİ VE DİĞ.YÜKÜMLÜ.(-)	 	 	 	 	 	 
+  3-KIDEM TAZMİNATI KARŞILIĞI	 	 				
+  4-MALİYET GİDERLERİ KARŞILIĞI	 	 				
+  5-DİĞER BORÇ VE GİDER KARŞILIKLARI	 	 	 	 		
+ H-GELECEK AYLARA AİT GELİRLER VE GİDER TAHAKKUKLARI	 	 	 	 	 	 
+  1-GELECEK AYLARA AİT GELİRLER	 	 				
+  2-GİDER TAHAKKUKLARI						
+ I-DİĞER KISA VADELİ YABANCI KAYNAKLAR	 	 	 	 	 	 
+  1-HESAPLANAN KDV						
+  2-DİĞER KDV						
+  4-SAYIM VE TESELLÜM FAZLALIKLARI	 	 	 	 		
+  5-DİĞER ÇEŞİTLİ YABANCI KAYNAKLAR	 	 	 	 		
+KISA VADELİ YABANCI KAYNAKLAR TOPLAMI	 	 	 	 	 	 
+						
+II-UZUN VADELİ YABANCI KAYNAKLAR	 	 	 	 		
+ A-MALİ BORÇLAR						
+  1-BANKA KREDİLERİ						
+  2-FİNANSAL KİRALAMA İŞLEMLERİNDEN BORÇLAR	 	 	 	 	 	 
+  3-ERTELENMİŞ FİNANSAL KİRALAMA BORÇ.MALİYETİ (-)	 	 	 	 	 	 
+  4-ÇIKARILMIŞ TAHVİLLER						
+  5-ÇIKARILMIŞ DİĞER MENKUL KIYMETLER	 	 	 	 	 	 
+  6-MENKUL KIYMETLER İHRAÇ FARKI(-)	 	 	 	 		
+  7-DİĞER MALİ BORÇLAR						
+ B-TİCARİ BORÇLAR						
+  1-SATICILAR						
+  2-BORÇ SENETLERİ						
+  3-BORÇ SENETLERİ REESKONTU(-)	 	 				
+  4-ALINAN DEPOZİTO VE TEMİNATLAR	 	 	 	 		
+  5-DİĞER TİCARİ BORÇLAR						
+ C-DİĞER BORÇLAR						
+  1-ORTAKLARA BORÇLAR						
+  4-DİĞER ÇEŞİTLİ BORÇLAR						
+ D-ALINAN AVANSLAR						
+  1-ALINAN SİPARİŞ AVANSLARI	 	 				
+  2-ALINAN DİĞER AVANSLAR	 					
+ E-BORÇ VE GİDER KARŞILIKLARI	 	 				
+  1-KIDEM TAZMİNATI KARŞILIĞI	 	 				
+  2-DİĞER BORÇ VE GİDER KARŞILIKLARI	 	 	 	 		
+ F-GELECEK YILLARA AİT GELİRLER VE GİDER TAHAKKUKLARI	 	 	 	 	 	 
+  1-GELECEK YILLARA AİT GELİRLER	 	 	 			
+  2-GİDER TAHAKKUKLARI						
+ G-DİĞER UZUN VADELİ KAYNAKLAR	 	 	 	 		
+  1-GEL.YILLARA ERT.VEYA TERKİN EDİLECEK KDV	 	 	 	 	 	 
+  2-TESİSE KATILMA PAYLARI						
+  3-DİĞER ÇEŞİTLİ UZUN VADELİ YABANCI KAYNAKLAR	 	 	 	 	 	 
+UZUN VADELİ YABANCI KAYNAKLAR TOPLAMI	 	 	 	 	 	 
+						
+III-ÖZKAYNAKLAR						
+ A-ÖDENMİŞ SERMAYE						
+  1-SERMAYE						
+  2-ÖDENMEMİŞ SERMAYE(-)						
+  3-SERMAYE DÜZELTMESİ OLUMLU FARKLARI	 	 	 	 	 	 
+  4-SERMAYE DÜZELTMESİ OLUMSUZ FARKLARI (-)	 	 	 	 	 	 
+ B-SERMAYE YEDEKLERİ						
+  3-M.D.V.YENİDEN DEĞERLEME ARTIŞLARI	 	 	 	 		
+  5-DİĞER SERMAYE YEDEKLERİ	 	 				
+  5-DİĞER SERMAYE YEDEKLERİ	 	 				
+ C-KAR YEDEKLERİ						
+  1-YASAL YEDEKLER						
+  4-DİĞER KAR YEDEKLERİ						
+  5-ÖZEL FONLAR						
+ D-GEÇMİŞ YILLAR KARLARI						
+  1-GEÇMİŞ YILLAR KARLARI						
+ E-GEÇMİŞ YILLAR ZARARLARI(-)	 	 				
+  1-GEÇMİŞ YILLAR ZARARLARI (-)	 	 				
+ F-DÖNEM NET KARI(ZARARI)	 					
+  1-DÖNEM NET KARI						
+  2-DÖNEM NET ZARARI (-)
+ÖZKAYNAKLAR TOPLAMI						
+
+
+PASİF (KAYNAKLAR) TOPLAMI</value>
+  </data>
+  <data name="label24.Text" xml:space="preserve">
+    <value>AKTİF (VARLIKLAR)
+
+
+ 	 	 
+I-DÖNEN VARLIKLAR
+ A-HAZIR DEĞERLER	 	 	 	 	 
+  1-KASA	 	 	 
+  2-ALINAN ÇEKLER 	 	 	 	 
+  3-BANKALAR	 	 	 	 	 
+  4-VERİLEN ÇEKLER VE ÖDEME EMİRLERİ (-)	 	 	 	 	 
+  5-DİĞER HAZIR DEĞERLER	 	 	 	 	 	 
+ B-MENKUL KIYMETLER	 	 	 	 	 	 
+ C-TİCARİ ALACAKLAR	 	 	 	 	 	 
+  1-ALICILAR	 	 	 	 	 	 
+  2-ALACAK SENETLERİ	 	 	 	 	 	 
+  3-ALACAK SENETLERI REESKONTU(-)	 	 	 	 	 	 
+  4-KAZANILMAMIŞ FİNANSAL KİRALAMA FAİZ GELİRLERİ (-)	 	 	 	 	 	 
+  5-VERİLEN DEPOZİTO VE TEMİNATLAR	 	 	 	 	 	 
+  6-DİĞER TİCARİ ALACAKLAR	 	 	 	 	 	 
+  7-ŞÜPHELİ TİCARİ ALACAKLAR	 	 	 	 	 	 
+  8-ŞÜPHELİ TİCARİ ALACAKLAR KARŞILIĞI(-)	 	 	 	 	 	 
+ D-DİĞER ALACAKLAR	 	 	 	 	 	 
+  1-ORTAKLARDAN ALACAKLAR	 	 	 	 	 	 
+  2-İŞTİRAKLERDEN ALACAKLAR	 	 	 	 	 	 
+  3-BAĞLI ORTAKLIKLARDAN ALACAKLAR	 	 	 	 	 	 
+  4-PERSONELDEN ALACAKLAR	 	 	 	 	 	 
+  5-DİĞER ÇEŞİTLİ ALACAKLAR	 	 	 	 	 	 
+  6-DİĞER ALACAK SENETLERİ REESKONTU(-)	 	 	 	 	 	 
+  7-ŞÜPHELİ DİĞER ALACAKLAR	 	 	 	 	 	 
+  8-ŞÜPHELİ DİĞER ALACAKLAR KARŞILIĞI(-)	 	 	 	 	 	 
+ E-STOKLAR	 	 	 	 	 	 
+  1-İLK MADDE VE MALZEME	 	 	 	 	 	 
+  2-YARI MAMÜLLER-ÜRETİM	 	 	 	 	 	 
+  3-MAMÜLLER	 	 	 	 	 	 
+  4-TİCARİ MALLAR	 	 	 	 	 	 
+  5-DİĞER STOKLAR	 	 	 	 	 	 
+  6-STOK DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI(-)	 	 	 	 	 	 
+  7-VERİLEN SİPARİŞ AVANSLARI	 	 	 	 	 	 
+ F-YILLARA YAYGIN İNŞAAT VE ONARIM MALİYETLERİ	 	 	 	 	 	 
+ G-GELECEK AYLARA AİT GİDERLER VE GELİR TAHAKKUKLARI	 	 	 	 	 	 
+  1-GELECEK AYLARA AİT GİDERLER	 	 	 	 	 	 
+  2-GELİR TAHAKKUKLARI	 	 	 	 	 	 
+ H-DİĞER DÖNEN VARLIKLAR	 	 	 	 	 	 
+  1-DEVREDEN KATMA DEĞER VERGİSİ	 	 	 	 	 	 
+  2-İNDİRİLECEK KATMA DEĞER VERGİSİ	 	 	 	 	 	 
+  3-DİĞER KATMA DEĞER VERGİSİ	 	 	 	 	 	 
+  4-PEŞİN ÖDENEN VERGİLER VE FONLAR	 	 	 	 	 	 
+  5-İŞ AVANSLARI	 	 	 	 	 	 
+  6-PERSONEL AVANSLARI	 	 	 	 	 	 
+  7-SAYIM VE TESELLÜM NOKSANLARI	 	 	 	 	 	 
+  8-DİĞER ÇEŞİTLİ DÖNEN VARLIKLAR	 	 	 	 	 	 
+  9-DİĞER DÖNEN VARLIKLAR KARŞILIĞI(-)	 	 	 	 	 	 
+DÖNEN VARLIKLAR TOPLAMI	 	 	 	 	 	 
+ 	 	 	 	 	 	 
+II-DURAN VARLIKLAR	 	 	 	 	 	 
+ A-TİCARİ ALACAKLAR	 	 	 	 	 	 
+  1-ALICILAR	 	 	 	 	 	 
+  2-ALACAK SENETLERİ	 	 	 	 	 	 
+  3-ALACAK SENETLERİ REESKONTU(-)	 	 	 	 	 	 
+  4-KAZANILMAMIŞ FİNASAL KİRALAMA FAİZ GELİRLERİ (-)	 	 	 	 	 	 
+  5-VERİLEN DEPOZİTO VE TEMİNATLAR	 	 	 	 	 	 
+  6-ŞÜPHELİ ALACAKLAR KARŞILIĞI(-)	 	 	 	 	 	 
+ B-DİĞER ALACAKLAR	 	 	 	 	 	 
+  1-ORTAKLARDAN ALACAKLAR	 	 	 	 	 	 
+  4-PERSONELDEN ALACAKLAR	 	 	 	 	 	 
+  5-DİĞER ÇEŞİTLİ ALACAKLAR	 	 	 	 	 	 
+  6-DİĞER ALACAK SENETLERİ REESKONTU(-)	 	 	 	 	 	 
+  7-ŞÜPHELİ DİĞER ALACAKLAR KARŞILIĞI(-)	 	 	 	 	 	 
+ C-MALİ DURAN VARLIKLAR	 	 	 	 	 	 
+  9-DİĞER MALİ DURAN VARLIKLAR	 	 	 	 	 	 
+  10-DİĞER MALİ DURAN VARLIKLAR KARŞILIĞI(-)	 	 	 	 	 	 
+  D-MADDİ DURAN VARLIKLAR	 	 	 	 	 	 
+  1-ARAZİ VE ARSALAR	 	 	 	 	 	 
+  3-BİNALAR	 	 	 	 	 	 
+  4-TESİS, MAKİNE VE CİHAZLAR	 	 	 	 	 	 
+  5-TAŞITLAR	 	 	 	 	 	 
+  6-DEMİRBAŞLAR	 	 	 	 	 	 
+  7-DİĞER MADDİ DURAN VARLIKLAR	 	 	 	 	 	 
+  8-BİRİKMİŞ AMORTİSMANLAR(-)	 	 	 	 	 	 
+  10-VERİLEN AVANSLAR	 	 	 	 	 	 
+ E-MADDİ OLMAYAN DURAN VARLIKLAR	 	 	 	 	 	 
+  1-HAKLAR	 	 	 	 	 	 
+  3-KURULUŞ VE ÖRGÜTLENME GİDERLERİ	 	 	 	 	 	 
+  4-ARAŞTIRMA VE GELİŞTİRME GİDERLERİ	 	 	 	 	 	 
+  5-ÖZEL MALİYETLER	 	 	 	 	 	 
+  6-DİĞER MADDİ OLMAYAN DURAN VARLIKLAR	 	 	 	 	 	 
+  7-BİRİKMİŞ AMORTİSMANLAR(-)	 	 	 	 	 	 
+  8-VERİLEN AVANSLAR	 	 	 	 	 	 
+ F-ÖZEL TÜKENMEYE TABİ VARLIKLAR	 	 	 	 	 	 
+ G-GELECEK YILLARA AİT GİDERLER VE GELİR TAHAKKUKLARI	 	 	 	 	 	 
+  1-GELECEK YILLARA AİT GİDERLER	 	 	 	 	 	 
+  2-GELİR TAHAKKUKLARI	 	 	 	 	 	 
+ H-DİĞER DURAN VARLIKLAR	 	 	 	 	 	 
+  1-GELECEK YILLARDA İNDİRİLECEK KATMA DEĞER VERGİSİ	 	 	 	 	 	 
+  2-DİĞER KATMA DEĞER VERGİSİ	 	 	 	 	 	 
+  5-PEŞİN ÖDENEN VERGİLER VE FONLAR	 	 	 	 	 	 
+  6-DİĞER ÇEŞİTLİ DURAN VARLIKLAR	 	 	 	 	 	 
+  7-STOK DEĞER DÜŞÜKLÜĞÜ KARŞILIĞI(-)	 	 	 	 	 	 
+  8-BİRİKMİŞ AMORTİSMANLAR(-)	 	 	 	 	 	 
+DURAN VARLIKLAR TOPLAMI	 	 	 	 	 	 
+
+
+
+
+AKTİF (VARLIKLAR) TOPLAMI</value>
+  </data>
+</root>
